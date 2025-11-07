@@ -1,4 +1,4 @@
-Forced Alignment using MFA
+**Forced Alignment using Montreal Forced Aligner (MFA) **
 
 This document explains the methods and results of a Forced Alignment project using the Montreal Forced Aligner (MFA). The project aimed to automatically create accurate time markers for words and individual sounds in speech audio.
 
